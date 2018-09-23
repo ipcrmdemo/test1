@@ -14,7 +14,7 @@ class Test1Controller {
 
     @GetMapping(path = "/")
     public String root() {
-        return "Hello, world! Add /hello/there to the URL to get a friendly reply.";
+        return "Hello, S1P! Add /hello/there to the URL to get a friendly reply.";
     }
 
 }
